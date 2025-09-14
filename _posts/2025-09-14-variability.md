@@ -23,7 +23,7 @@ Parece ainda mais óbvio pensar que, diferentes pesquisadores, com diferentes ba
 🤦‍♂️ O mesmo estudo mostrou o exato contrário. As características dos pesquisadores e suas decisões mostraram-se incapazes de explicar a variabilidade em todos os níveis de comparação.
 
 
-![Desktop View](/assets/img/1755441242211.jpg){: width="972" height="589" }
+![Desktop View](/assets/img/1755441241831.jpg){: width="972" height="589" }
 _Full screen width and center alignment_
 
 
